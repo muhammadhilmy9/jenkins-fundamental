@@ -1,0 +1,14 @@
+PENGENALAN JENKINS 
+- Jenkins adalah opensource automation server yang paling populer saat ini, dibuat dengan bahasa pemrograman Java.
+- https://www.jenkins.io/
+
+JENKINS PLUGIN
+- Jenkins sendiri merupakan sebuah platform untuk automation server.
+- Kebanyakan fitur di Jenkins sendiri tersedia dalam bentuk plugin, bahkan kita bisa membuat plugin sendiri jika kita mau.
+- https://plugins.jenkins.io/
+- Jika butuh integrasi dengan git, jira dll maka perlu konfigurasi dan install plugin nya. 
+
+Menginstall Jenkins
+- OS linux
+- OS linux  biasanya digunakan oleh enterprise 
+

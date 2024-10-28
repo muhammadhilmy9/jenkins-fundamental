@@ -1,0 +1,25 @@
+before ada automation
+- pengembangan perangkat lunak, koding hanya tahapan awal
+- After koding, masih banyak hal yang perlu di lakukan oleh developer sebelum aplikasi yang dibuat sampai ke production server.
+- Sebelum adanya automation server, biasanya semuanya dilakukan secara manual, namun resikonya adalah sering terjeadi kesalahan dan tidak konsisten (bisa beda orang, beda laptop dll)
+- contoh menjalankan unit test, download dependency aplikasi, setup database, membuat distribusi aplikasi, dan lain-lain
+- hal-hal diatas sangat kompleks jika harus dilakukan secara manual terus-menerus. 
+
+Automation server
+- Automation server adalah aplikasi yang bisa kita gunakan untuk melakukan proses otomatisasi perintah yang kita instruksikan
+- Ada banyak sekali keuntungan yang kita dapatkan jika menggunakan automation server, dibanding manual dalam tahapan pengembangan perangkat lunak. 
+- Automation server mempercepat proses, karena kita tidak perlu menunggu di laptop kita.
+- Automation server bisa berjalan konsisten, di laptop programmer mungkin perangkat lunak bisa berbeda-beda.
+- Automation server bisa berjalan secara otomatis, bisa memberitahu kita ketika terjadi kesalahan, dan lain-lain.
+
+contoh automation server
+- Jenkins
+- Team City
+- Gitlab CI/CD
+- Github Action
+- Atlassian Bamboo
+- Circle CI
+- Travis CI
+- Dan lain-lain
+
+
